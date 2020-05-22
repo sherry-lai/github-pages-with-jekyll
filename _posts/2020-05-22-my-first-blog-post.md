@@ -1,3 +1,8 @@
+---
+title: "hello world"
+date: 05.22.20
+---
+
 hello world
 
 this is my first blog post. 
