@@ -1,12 +1,10 @@
 title: sherry-lai
-author: sherry lai
-email: sherrylai9420@gmail.com
+logo: '/assets/pfp.jpeg'
 description: > # this means to ignore newlines until "baseurl:"
-  bible bullet journal & blogz 
-theme: minima
-
+hi. welcome to my blog!
+theme: jekyll-theme-minimal
 # social links
-twitter_username: sherrylayschips # DO NOT include the @ character, or else the build will fail!
-github_username:  sherry-lai # DO NOT include the @ character, or else the build will fail!
-
-show_excerpts: true # set to false to remove excerpts on the homepage
+instagram_username: sherrylayschips
+twitter_username: sherrylayschips
+github_username:  sherry-lai
+show_excerpts: false # set to false to remove excerpts on the homepage
