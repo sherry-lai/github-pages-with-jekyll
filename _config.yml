@@ -1,8 +1,9 @@
-minima: sherry-lai
+title: sherry-lai
 author: sherry lai
 email: sherrylai9420@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   bible bullet journal & blogz 
+theme: minima
 
 # social links
 twitter_username: sherrylayschips # DO NOT include the @ character, or else the build will fail!
