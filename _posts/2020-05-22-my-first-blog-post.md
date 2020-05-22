@@ -1,6 +1,6 @@
 ---
 title: "hello world"
-date: 05.22.20
+date: 2020-05-22
 ---
 
 hello world
