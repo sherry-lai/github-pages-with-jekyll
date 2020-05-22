@@ -1,3 +1,3 @@
-# Welcome to my blog
+# slai.
 
-I'm glad you are here. I plan to talk about ...
+a space where i discuss topics that pique my interest
