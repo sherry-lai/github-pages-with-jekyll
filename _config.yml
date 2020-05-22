@@ -1,8 +1,8 @@
+title: sherry-lai
 description: > # this means to ignore newlines until "baseurl:"
 hi. welcome to my blog!
 theme: jekyll-theme-minimal
 # social links
-instagram_username: sherrylayschips
 twitter_username: sherrylayschips
 github_username:  sherry-lai
-show_excerpts: false # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage
